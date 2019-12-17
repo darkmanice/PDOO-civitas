@@ -12,4 +12,4 @@ Prácticas de la asignaturas Programación Dirigida a Objetos de la UGR. Consist
 
 ## Pruebas
 
-En todas las pruebas llevadas a cabo no se han encontrado errores. Esto no significa que esté libre de ellos.
+No deja rechazar la compra de una propiedad.
